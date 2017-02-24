@@ -1,3 +1,8 @@
+.bg {
+
+  background-color: #FFFDFB;
+
+}
 .logo {
   height: 100px;
   width: 100px;
@@ -8,17 +13,10 @@
     margin-bottom: 25px;
 }
 
-.logo:hover{
-  transform: scale(1.05);
-  -ms-transform: scale(1.05);
-  -webkit-transform: scale(1.05);
-  -o-transform: scale(1.05);
-  -moz-transform: scale(1.05);
-}
-
 .header{
   margin-left: 520px;
   margin-right: auto;
+  margin-bottom: 100px;
 
 }
 
@@ -65,4 +63,31 @@ a.button:hover{
 .menu>li>a:hover {
   color: black;
 }
+
+.row {
+margin-bottom: 100px;
+
+}
+
+.h {
+  font-size: 100px;
+}
+
+.pix:hover {
+    transform: scale(1.10);
+  -ms-transform: scale(1.10);
+  -webkit-transform: scale(1.10);
+  -o-transform: scale(1.10);
+  -moz-transform: scale(1.10);
+
+}
+
+
+
+
+
+
+
+
+
 
